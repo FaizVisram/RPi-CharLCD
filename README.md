@@ -1,3 +1,12 @@
+RPi-CharLCD
+============
+
+This library is to display useful system information on a 16x2 Character LCD.
+
+
+_Forked from https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code.git_
+
+
 Adafruit's Raspberry-Pi Python Code Library
 ============
   Here is a growing collection of libraries and example python scripts
@@ -11,6 +20,3 @@ Adafruit's Raspberry-Pi Python Code Library
 
   Written by Limor Fried, Kevin Townsend and Mikey Sklar for Adafruit Industries.
   BSD license, all text above must be included in any redistribution
-  
-  To download, we suggest logging into your Pi with Internet accessibility and typing:
-  git clone https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code.git
